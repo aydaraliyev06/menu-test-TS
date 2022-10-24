@@ -1,0 +1,11 @@
+.menu-button{
+    padding: 15px 27px;
+    display: flex;
+    align-items: center;
+    column-gap: 17px;
+}
+
+.menu-button img{
+    width: 22px;
+    height: 22px;
+}
